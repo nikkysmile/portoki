@@ -32,7 +32,7 @@ export default function Navbar() {
             <ul className="flex flex-col gap-4 text-white">
               <li><a href="#hero">Home</a></li>
               <li><a href="#about">Profile</a></li>
-              <li><a href="#skills">Skills</a></li>
+              <li><a href="#skills">Expertise</a></li>
               <li><a href="#projects">Projects</a></li>
               <li><a href="#contact">Contact</a></li>
             </ul>
