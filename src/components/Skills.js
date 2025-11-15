@@ -52,7 +52,7 @@ export default function Skills() {
   ];
 
   return (
-    <section id="skills" className="py-24 bg-black text-white">
+    <section id="skills" className="pt-12 pb-24 bg-black text-white">
       <h2 className="text-4xl font-bold text-center mb-12">Expertise</h2>
 
       <div className="max-w-3xl mx-auto space-y-4 px-6">

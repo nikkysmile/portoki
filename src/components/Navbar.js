@@ -13,8 +13,10 @@ export default function Navbar() {
         <ul className="hidden md:flex gap-8 text-white/90">
           <li><a href="#hero" className="hover:text-white">Home</a></li>
           <li><a href="#about" className="hover:text-white">Profile</a></li>
+          <li><a href="#experience" className="hover:text-white">Experience</a></li>
           <li><a href="#skills" className="hover:text-white">Expertise</a></li>
           <li><a href="#projects" className="hover:text-white">Projects</a></li>
+           <li><a href="#certificates" className="hover:text-white">Certificates</a></li>
           <li><a href="#contact" className="hover:text-white">Contact</a></li>
         </ul>
 
@@ -32,8 +34,10 @@ export default function Navbar() {
             <ul className="flex flex-col gap-4 text-white">
               <li><a href="#hero">Home</a></li>
               <li><a href="#about">Profile</a></li>
+              <li><a href="#experience">Experience</a></li>
               <li><a href="#skills">Skills</a></li>
               <li><a href="#projects">Projects</a></li>
+              <li><a href="#certificates" className="hover:text-white">Certificates</a></li>
               <li><a href="#contact">Contact</a></li>
             </ul>
           </div>
