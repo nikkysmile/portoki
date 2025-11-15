@@ -34,8 +34,12 @@ export default function Navbar() {
             <ul className="flex flex-col gap-4 text-white">
               <li><a href="#hero">Home</a></li>
               <li><a href="#about">Profile</a></li>
+<<<<<<< HEAD
               <li><a href="#experience">Experience</a></li>
               <li><a href="#skills">Skills</a></li>
+=======
+              <li><a href="#skills">Expertise</a></li>
+>>>>>>> 80d616ec37682d5a826a3b6bae8de82196819a3b
               <li><a href="#projects">Projects</a></li>
               <li><a href="#certificates" className="hover:text-white">Certificates</a></li>
               <li><a href="#contact">Contact</a></li>
