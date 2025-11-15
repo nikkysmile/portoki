@@ -44,7 +44,7 @@ export default function Projects() {
               className="relative cursor-pointer group overflow-hidden rounded-2xl border border-white/10 bg-white/5 backdrop-blur-xl shadow-xl"
             >
               <img
-                src={p.image}
+                src={p.image} alt={p.title}
                 className="w-full aspect-[16/6] object-contain bg-black rounded-xl group-hover:opacity-100 transition-all duration-300"
               />
 
@@ -77,7 +77,7 @@ export default function Projects() {
               className="bg-white/10 border border-white/20 p-8 rounded-2xl max-w-xl text-white shadow-2xl"
             >
               <img
-  src={selected.image}
+  src={selected.image} alt={selected.title}
   className="w-full object-contain max-h-[70vh] bg-black rounded-xl mb-4"
 />
 
