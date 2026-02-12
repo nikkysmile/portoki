@@ -27,7 +27,7 @@ export default function Projects() {
   ];
 
   return (
-    <section id="projects" className="py-24 bg-black">
+    <section id="projects" className="py-24 bg-white">
       <Reveal>
         <h2 className="text-4xl font-bold text-center text-white mb-12">
           Projects
