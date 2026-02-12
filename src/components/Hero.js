@@ -69,7 +69,7 @@ export default function Hero() {
         </motion.p>
 
         <motion.a
-  href="porto.pdf"
+  href="portomed.pdf"
   download
   initial={{ opacity: 0, y: 20 }}
   animate={{ opacity: 1, y: 0 }}
